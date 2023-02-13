@@ -8,7 +8,7 @@
     "require": {
         "stripe/stripe-php": "8.8.0",
         "mandrill/mandrill": "^1.0",
-        "sentry/sentry": "^1.4",
+        "sentry/sentry": "^3.13",
         "erusev/parsedown-extra": "^0.8"
     },
     "require-dev": {
